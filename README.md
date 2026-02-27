@@ -63,15 +63,11 @@
 **Frameworks & Architectures**
 - 🐍 Python, PyTorch
 - 🧠 Transformer & Diffusion Architectures
-- 👁️ Multimodal (Vision-Language) Learning
-- 📝 Diffusion Language Models
 
 </td>
 <td width="50%">
 
 **Domains & Systems**
-- 🤖 Embodied AI (Vision-Language-Action)
-- 🌐 World Models
 - 🗣️ Audio-driven Generation Systems
 - ⚡ Real-time Inference & Interactive Streaming
 
@@ -123,7 +119,7 @@ learning:
 
 I'm always excited to collaborate on:
 
-- 🔬 Research Projects - Pushing the boundaries of AIGC & Embodied AI
+- 🔬 Research Projects - Pushing the boundaries of AIGC 
 
 - 🌟 Open Source - Contributing to impactful Multimodal/Video models
 
@@ -137,8 +133,8 @@ I'm always excited to collaborate on:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-joeqian%40aliyun.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joeqian@aliyun.com)
-[![WeChat](https://img.shields.io/badge/WeChat-Joeqqqqqqqq-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-1875202618@qq.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:1875202618@qq.com)
+[![WeChat](https://img.shields.io/badge/WeChat-ytA1875202618-07C160?style=for-the-badge&logo=wechat&logoColor=white)](#)
 
 </div>
 
