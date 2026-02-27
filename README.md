@@ -97,7 +97,7 @@
 ```yaml
 projects:
   - Real-time Audio-driven Digital Humans (Core Contributor to SoulX-FlashTalk & SoulX-FlashHead)
-  - Video Generation 
+  - Interactive Video Generation 
 ```
 </td>
 <td width="50%">
